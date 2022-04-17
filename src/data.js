@@ -13,7 +13,7 @@ export default[
     place:"Sydney Opera House",
     date:"27 Mat,2021-8 Jun,2021",
     description:"The Sydeney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
-    img:"fuji.jpg",
+    img:"opera-house.jpg",
    },
    {
     id:3,
@@ -21,7 +21,7 @@ export default[
     place:"Geirangerfjord",
     date:"01 Oct,2021-18 Nov,2021",
     description:"The geiranger Fjord is a fjord in the Sunnmare region of More og Romsdal county,Norway. It is located entirely in the Stranda Municipality.",
-    img:"fuji.jpg",
+    img:"geirangerfjord.jpg",
    },
    
     

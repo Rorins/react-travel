@@ -3,11 +3,19 @@ import React from "react";
 export default function Card(props){
     return(
         <div className="card">
-            <img src={`../images/${props.element.img}`} />
+
+            <div className="image-box">
+            <img src={require(`../images/${props.element.img}`)} />
+            </div>
+
             <div className="about">
-            <h3>{props.element.countryName}</h3>
+            <div class="d-flex">
+            <h3 class="country">{props.element.countryName.toUpperCase()}</h3>
+            <span><a href="">View on Google Maps</a></span>
+            </div>
+
             <h1>{props.element.place}</h1>
-            <p>{props.element.date}</p>
+            <h3>{props.element.date}</h3>
             <p>{props.element.description}</p>
             </div>
         </div>
