@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Some random notes about React
+
+[React.odt](https://github.com/user-attachments/files/23286325/React.odt)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
